@@ -1,0 +1,6 @@
+framework module Pods_Facade_Coredata_API_UnitTesting {
+  umbrella header "Pods-Facade_Coredata_API_UnitTesting-umbrella.h"
+
+  export *
+  module * { export * }
+}

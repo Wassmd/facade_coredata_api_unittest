@@ -1,0 +1,392 @@
+{
+    "page": 1,
+    "total_results": 341,
+    "total_pages": 18,
+    "results": [
+                {
+                "vote_count": 1569,
+                "id": 433,
+                "video": false,
+                "vote_average": 7.5,
+                "title": "Mary Poppins",
+                "popularity": 15.003115,
+                "poster_path": "\/oPXf92g2gjlPqduj6vRH9yvh0Yb.jpg",
+                "original_language": "en",
+                "original_title": "Mary Poppins",
+                "genre_ids": [
+                              35,
+                              10751,
+                              14
+                              ],
+                "backdrop_path": "\/7DbgR36Sct5gcyEAzoM8bqiTYUV.jpg",
+                "adult": false,
+                "overview": "A magical nanny employs music and adventure to help two neglected children become closer to their father.",
+                "release_date": "1964-08-27"
+                },
+                {
+                "vote_count": 98,
+                "id": 442064,
+                "video": false,
+                "vote_average": 5.2,
+                "title": "Proud Mary",
+                "popularity": 14.94499,
+                "poster_path": "\/gjc0wxwl7WLFCkaGRrZjax5Tkv8.jpg",
+                "original_language": "en",
+                "original_title": "Proud Mary",
+                "genre_ids": [
+                              53,
+                              28
+                              ],
+                "backdrop_path": "\/6vNh2vkfXVL8PoVXVIeZB6DcwbM.jpg",
+                "adult": false,
+                "overview": "A hit woman kills a drug boss only to learn that she has left a boy orphaned. A year later, she saves the boy from a dangerous life on the street but finds herself unable to give the boy or herself a fresh start.",
+                "release_date": "2018-01-12"
+                },
+                {
+                "vote_count": 22,
+                "id": 407439,
+                "video": false,
+                "vote_average": 6,
+                "title": "Mary Magdalene",
+                "popularity": 9.61604,
+                "poster_path": "\/5eyPpqvkH6OsXpohfHPk2FM8MVu.jpg",
+                "original_language": "en",
+                "original_title": "Mary Magdalene",
+                "genre_ids": [
+                              18
+                              ],
+                "backdrop_path": "\/or9m7UUEITgkkJQK1m8fs93eJ9w.jpg",
+                "adult": false,
+                "overview": "Set in the Holy Land in the first century C.E., a young woman leaves her small fishing village and traditional family behind to join a radical new social movement. At its head is a charismatic leader, Jesus of Nazareth, who promises that the world is changing. Mary is searching for a new way of living, and an authenticity that is denied her by the rigid hierarchies of the day. As the notoriety of the group spread and more are drawn to follow Jesus’ inspirational message, Mary’s spiritual journey places her at the heart of a story that will lead to the capital city of Jerusalem, where she must confront the reality of Jesus’ destiny and her own place within it.",
+                "release_date": "2018-03-15"
+                },
+                {
+                "vote_count": 199,
+                "id": 126277,
+                "video": false,
+                "vote_average": 5.9,
+                "title": "American Mary",
+                "popularity": 8.704144,
+                "poster_path": "\/vLy2Ldg3vGlpXwF8ZeUL40iDtLK.jpg",
+                "original_language": "en",
+                "original_title": "American Mary",
+                "genre_ids": [
+                              27,
+                              53
+                              ],
+                "backdrop_path": "\/8JredzZYoEoyXtRbx65rbUFEPUz.jpg",
+                "adult": false,
+                "overview": "A young med student struggling with her tuition fees is drawn into the shady world of underground body modification.",
+                "release_date": "2012-05-31"
+                },
+                {
+                "vote_count": 94,
+                "id": 9095,
+                "video": false,
+                "vote_average": 5.7,
+                "title": "Mary Reilly",
+                "popularity": 7.908147,
+                "poster_path": "\/Oesh4pN5J2ing4flkgkiVdxILP.jpg",
+                "original_language": "en",
+                "original_title": "Mary Reilly",
+                "genre_ids": [
+                              18,
+                              27,
+                              53,
+                              10749
+                              ],
+                "backdrop_path": "\/mErnrp6gxgSw7eYVnuos3k8EkWf.jpg",
+                "adult": false,
+                "overview": "A housemaid falls in love with Dr. Jekyll and his darkly mysterious counterpart, Mr. Hyde.",
+                "release_date": "1996-02-23"
+                },
+                {
+                "vote_count": 11,
+                "id": 64942,
+                "video": false,
+                "vote_average": 5.4,
+                "title": "Mary",
+                "popularity": 2.353106,
+                "poster_path": "\/rAmE40RErUTBk0vgJb7cd3MbeVU.jpg",
+                "original_language": "en",
+                "original_title": "Mary",
+                "genre_ids": [
+                              18
+                              ],
+                "backdrop_path": "\/ms1rb18PdafPNSnGmiCSrcHagJ7.jpg",
+                "adult": false,
+                "overview": "Following the shooting of a film on the life of Jesus called This Is My Blood, Marie Palesi (Juliette Binoche), the actress who plays Mary Magdalene takes refuge in Jerusalem in search of the truth behind the myth.\r The director of the film, Tony Childress (Matthew Modine), who also plays Jesus, can think of only one thing: self-promotion.\r In New York, television journalist Ted Younger (Forest Whitaker) presents a programme about the life of Jesus.",
+                "release_date": "2005-11-18"
+                },
+                {
+                "vote_count": 2017,
+                "id": 544,
+                "video": false,
+                "vote_average": 6.5,
+                "title": "There's Something About Mary",
+                "popularity": 19.700179,
+                "poster_path": "\/hFtnobv2d8WrjhMPCoX4i0oMJio.jpg",
+                "original_language": "en",
+                "original_title": "There's Something About Mary",
+                "genre_ids": [
+                              10749,
+                              35
+                              ],
+                "backdrop_path": "\/8ZIZJbPXCtnIG1rJpR57iFRyPTt.jpg",
+                "adult": false,
+                "overview": "Having never fully recovered from a prom date that became a total disaster, a man finally gets a chance to reunite with his old prom date, only to run up against other suitors including the sleazy detective he hired to find her.",
+                "release_date": "1998-07-15"
+                },
+                {
+                "vote_count": 360,
+                "id": 3036,
+                "video": false,
+                "vote_average": 6.2,
+                "title": "Mary Shelley's Frankenstein",
+                "popularity": 8.697801,
+                "poster_path": "\/uG0YLHdiBuWBv99MLwthucsvKLZ.jpg",
+                "original_language": "en",
+                "original_title": "Frankenstein",
+                "genre_ids": [
+                              18,
+                              27,
+                              878,
+                              10749
+                              ],
+                "backdrop_path": "\/vVyF1OMjsdsboBBjEVL8wmOdPNG.jpg",
+                "adult": false,
+                "overview": "Based on Mary Shelley's novel, \"Frankenstein\" tells the story of Victor Frankenstein, a promising young doctor who, devastated by the death of his mother during childbirth, becomes obsessed with bringing the dead back to life. His experiments lead to the creation of a monster, which Frankenstein has put together with the remains of corpses. It's not long before Frankenstein regrets his actions.",
+                "release_date": "1994-11-04"
+                },
+                {
+                "vote_count": 713,
+                "id": 24238,
+                "video": false,
+                "vote_average": 7.8,
+                "title": "Mary and Max",
+                "popularity": 5.268889,
+                "poster_path": "\/k0lQISUC4NuvKYasJn59JHc2rla.jpg",
+                "original_language": "en",
+                "original_title": "Mary and Max",
+                "genre_ids": [
+                              16,
+                              35,
+                              18
+                              ],
+                "backdrop_path": "\/akUyYgdcY3Q4WfbWLDB9Ur8ttFG.jpg",
+                "adult": false,
+                "overview": "A tale of friendship between two unlikely pen pals: Mary, a lonely, eight-year-old girl living in the suburbs of Melbourne, and Max, a forty-four-year old, severely obese man living in New York. In the mid-1970's, a homely, friendless Australian girl of 8 picks a name out of a Manhattan phone book and writes to him; she includes a chocolate bar. He writes back, with chocolate. Thus begins a 20-year correspondence. Will the two ever meet face to face?",
+                "release_date": "2009-02-09"
+                },
+                {
+                "vote_count": 57,
+                "id": 430447,
+                "video": false,
+                "vote_average": 6.8,
+                "title": "Mary and the Witch's Flower",
+                "popularity": 13.366994,
+                "poster_path": "\/mQPujyTaD4F8P9NQZwls6gYjR3L.jpg",
+                "original_language": "ja",
+                "original_title": "Mary and the Witch’s Flower",
+                "genre_ids": [
+                              14,
+                              12,
+                              16
+                              ],
+                "backdrop_path": "\/izx7Dh8GwEVQIPxsHzr8imzM5HW.jpg",
+                "adult": false,
+                "overview": "A young girl named Mary discovers that she has a mysterious power to become a witch which lasts for one night only.",
+                "release_date": "2017-07-08"
+                },
+                {
+                "vote_count": 4,
+                "id": 97867,
+                "video": false,
+                "vote_average": 4.8,
+                "title": "Mary",
+                "popularity": 1.417057,
+                "poster_path": "\/rl5iDfbe0RVcCu7P6Xg3IQHo4Rs.jpg",
+                "original_language": "de",
+                "original_title": "Mary",
+                "genre_ids": [
+                              53
+                              ],
+                "backdrop_path": "\/4ezDupYG8tRPTjfuEgPW3xYsxri.jpg",
+                "adult": false,
+                "overview": "A juror in a murder trial, after voting to convict, has second thoughts and begins to investigate on his own before the execution. German version of \"Murder.\"",
+                "release_date": "1931-03-02"
+                },
+                {
+                "vote_count": 37,
+                "id": 284288,
+                "video": false,
+                "vote_average": 6.9,
+                "title": "Mary Kom",
+                "popularity": 3.201506,
+                "poster_path": "\/2axRbJAy6DFYSU73mQjmfGY4gEw.jpg",
+                "original_language": "hi",
+                "original_title": "मैरी कोम",
+                "genre_ids": [
+                              28,
+                              18,
+                              36
+                              ],
+                "backdrop_path": "\/2beHXo7unjBi1CCHfglB85PA3lg.jpg",
+                "adult": false,
+                "overview": "A chronicle of the life of Indian boxer 'Mary Kom' who went through several hardships before audaciously accomplishing her ultimate dream.",
+                "release_date": "2014-09-05"
+                },
+                {
+                "vote_count": 76,
+                "id": 10292,
+                "video": false,
+                "vote_average": 4.9,
+                "title": "Urban Legends: Bloody Mary",
+                "popularity": 5.874148,
+                "poster_path": "\/5yIqUhlKaJFlCSqndSe4BWE7fW6.jpg",
+                "original_language": "en",
+                "original_title": "Urban Legends: Bloody Mary",
+                "genre_ids": [
+                              27,
+                              53
+                              ],
+                "backdrop_path": "\/37Kh4jou3DPP7wSXQPap8KHu4x8.jpg",
+                "adult": false,
+                "overview": "On a prom-night dare, a trio of high school friends chant an incantation, unleashing an evil spirit from the past with deadly consequences.",
+                "release_date": "2005-07-19"
+                },
+                {
+                "vote_count": 2,
+                "id": 332283,
+                "video": false,
+                "vote_average": 0,
+                "title": "Mary Shelley",
+                "popularity": 3.21056,
+                "poster_path": "\/AnHutc9eDDrVXvlmYFohEougTHq.jpg",
+                "original_language": "en",
+                "original_title": "Mary Shelley",
+                "genre_ids": [
+                              18,
+                              10749
+                              ],
+                "backdrop_path": "\/3vp5dMXAzbl5JUoGgVXEBZMJn7i.jpg",
+                "adult": false,
+                "overview": "The love affair between poet Percy Shelley and 18 years old Mary Wollstonecraft, which resulted in Mary Shelley writing Frankenstein.",
+                "release_date": "2018-04-25"
+                },
+                {
+                "vote_count": 28,
+                "id": 176339,
+                "video": false,
+                "vote_average": 6.4,
+                "title": "Mary and Martha",
+                "popularity": 3.240793,
+                "poster_path": "\/2LX8LjeYomEN9ZEqgc92Xk1lOLN.jpg",
+                "original_language": "en",
+                "original_title": "Mary and Martha",
+                "genre_ids": [
+                              18
+                              ],
+                "backdrop_path": "\/oTvS85oED6WlUK7LokvRrgicV6J.jpg",
+                "adult": false,
+                "overview": "Wealthy American housewife Mary Morgan takes her bullied son George out of school for home education,including a trip to Southern Africa. Whilst in Mozambique George is bitten by a mosquito which crawls through a hole in his net and dies of malaria. After his funeral at home Mary feels a compulsion to return to Africa where she meets English woman Martha O'Connell,whose 24 year old son Ben, a teacher with voluntary service overseas,has also died of malaria. Ben gave his net to one of his pupils,believing adults cannot catch malaria. The two women are shocked to see the high death rate caused by the disease and,whilst Martha stays in Africa as a voluntary helper,Mary petitions the American government to change things. Martha turns up at Mary's house unannounced and,helped by Mary's ex-diplomat father,they address a senate committee on health spending,persuading them to do more to combat malaria. They meet with some success though a coda states that much more can be done.",
+                "release_date": "2013-03-01"
+                },
+                {
+                "vote_count": 11,
+                "id": 193006,
+                "video": false,
+                "vote_average": 4.9,
+                "title": "Mary, Queen of Scots",
+                "popularity": 4.589135,
+                "poster_path": "\/gYUh35nudZWgvVSqP1Xx4cPKqgy.jpg",
+                "original_language": "en",
+                "original_title": "Mary, Queen of Scots",
+                "genre_ids": [
+                              18,
+                              36,
+                              10749
+                              ],
+                "backdrop_path": "\/pMcUmlSXHvOStLujqbxwEhsf1QS.jpg",
+                "adult": false,
+                "overview": "The life and death of the Scottish monarch.",
+                "release_date": "2013-08-04"
+                },
+                {
+                "vote_count": 0,
+                "id": 419706,
+                "video": false,
+                "vote_average": 0,
+                "title": "Mary",
+                "popularity": 1.160798,
+                "poster_path": null,
+                "original_language": "en",
+                "original_title": "Mary",
+                "genre_ids": [
+                              53,
+                              27
+                              ],
+                "backdrop_path": null,
+                "adult": false,
+                "overview": "A struggling family buys an old ship at auction with high hopes of starting a charter business, only to discover her horrifying secrets on the isolated open waters.",
+                "release_date": "2018-12-31"
+                },
+                {
+                "vote_count": 1,
+                "id": 112007,
+                "video": false,
+                "vote_average": 6,
+                "title": "Mary, Mary",
+                "popularity": 1.350964,
+                "poster_path": "\/ozteVvMN4OKS6zdyMXCtb0VJNw3.jpg",
+                "original_language": "en",
+                "original_title": "Mary, Mary",
+                "genre_ids": [
+                              35
+                              ],
+                "backdrop_path": "\/zcU9ny5c1tMYiWzREkmK9Uz9rx8.jpg",
+                "adult": false,
+                "overview": "A man on the verge of divorce is shocked by his wife's glamorous makeover.",
+                "release_date": "1963-10-24"
+                },
+                {
+                "vote_count": 0,
+                "id": 490174,
+                "video": false,
+                "vote_average": 0,
+                "title": "Mary",
+                "popularity": 1.069537,
+                "poster_path": "\/1I8pFEz6tTKPATWcOdslvGjQNtz.jpg",
+                "original_language": "hr",
+                "original_title": "Mary",
+                "genre_ids": [
+                              35,
+                              18
+                              ],
+                "backdrop_path": null,
+                "adult": false,
+                "overview": "Marinko works for Street Parking Services. With his colleague Ante he tows away illegally parked cars to the city car pound. After work, Marinko is tired and lonely. He has a quick meal, watches TV and goes to sleep. Day in day out, the same, until a woman named Marija quietly enters his life.",
+                "release_date": "2017-06-05"
+                },
+                {
+                "vote_count": 5,
+                "id": 115131,
+                "video": false,
+                "vote_average": 5.1,
+                "title": "Mary, Mary, Bloody Mary",
+                "popularity": 1.356283,
+                "poster_path": "\/ofZ7G0Myf8SKCkaqfHXC96E88gE.jpg",
+                "original_language": "en",
+                "original_title": "Mary, Mary, Bloody Mary",
+                "genre_ids": [
+                              18,
+                              27,
+                              9648
+                              ],
+                "backdrop_path": "\/qpIEEdmtpAIDMdsF4AO7VV2Vscy.jpg",
+                "adult": false,
+                "overview": "Mexican horror film about an American painter named Mary (Cristina Ferrare) who is living in Mexico where she sells her works and also kills people for their blood. It turns out Mary is a vampire but not the traditional one with fangs. Since she has no fangs she must stab or slash the throats of her victims but soon she has a new man (David Young) in her life as well as a mysterious man (John Carradine) in black who appears to be doing the same type of murders.",
+                "release_date": "1975-05-01"
+                }
+                ]
+}
